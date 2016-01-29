@@ -1,4 +1,9 @@
 *.class
+*.idea
+*.gitignore
+*Goitishka.iml
+*READDME.md
+*out
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
